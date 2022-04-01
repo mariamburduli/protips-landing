@@ -1,0 +1,30 @@
+
+/* paginators */
+.paginators {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+  }
+  .paginator img {
+    width: 16px;
+    height: 16px;
+  }
+  .paginators .paginator:nth-child(2) img {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+/* heading */
+  .heading {
+    text-align: center;
+  }
+  .heading h2 {
+    font-size: 34px;
+    font-family: "Poppins-Bold";
+    color: #342d20;
+  }
+  .heading h5 {
+    font-size: 16px;
+    font-family: "Poppins-Medium";
+    color: #544837;
+    margin: 16px 0 70px 0;
+  }
